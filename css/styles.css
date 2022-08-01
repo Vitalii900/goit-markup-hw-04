@@ -305,6 +305,7 @@ body {
   justify-content: center;
   margin-bottom: 30px;
   height: 120px;
+  background-color: var(--team-background-color);
 }
 
 .advantage-title {
